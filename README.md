@@ -4,11 +4,13 @@ Análise de dilema ético real envolvendo Inteligência Artificial (IA), aplican
 ##
 A moderação realizada por inteligência artificial pode ser preconceituosa ou injusta?
 
-- O problema
+- O problema:
 Preconceitos decorrentes da moderação de conteúdo realizada por inteligência artificial. Risco de reprodução de preconceitos: algoritmos de moderação treinados em dados enviesados podem censurar desproporcionalmente minorias, linguagens periféricas ou expressões culturais.
 
-- Análise
+- Análise:
 Necessita de transparência e explicabilidade dos dados, resultados sobre impactos sociais e Direitos, responsabilidade e governança. A Inteligência artificial utilizando dados enviesados ou sem devida transparência e manipulação se torna um Black Box.
 
--Posicionamento
+- Posicionamento:
 O uso da inteligência artificial na moderação de conteúdo e utilização de dados precisa ser conduzido com prudência e responsabilidade.
+
+✔ Análise completa no PDF anexo!
